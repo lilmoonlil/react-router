@@ -54,7 +54,7 @@
     "@octokit/core": "^4.2.4",
     "@octokit/graphql": "^4.8.0",
     "@octokit/plugin-paginate-rest": "^2.21.3",
-    "@octokit/rest": "^18.12.0",
+    "@octokit/rest": "^21.1.1",
     "@remix-run/changelog-github": "^0.0.5",
     "@remix-run/web-fetch": "4.3.6",
     "@rollup/plugin-babel": "^5.3.1",
