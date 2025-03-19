@@ -44,7 +44,7 @@
   },
   "dependencies": {
     "@ampproject/filesize": "^4.3.0",
-    "@babel/core": "^7.22.9",
+    "@babel/core": "^7.26.10",
     "@babel/preset-env": "^7.22.9",
     "@babel/preset-modules": "^0.1.6",
     "@babel/preset-react": "^7.22.5",
